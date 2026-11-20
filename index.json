@@ -1,0 +1,16 @@
+{
+  "presets": [
+    {
+      "id": "hita-l-1.5.3",
+      "file": "presets/hita-l-1.5.3.json"
+    },
+    {
+      "id": "hita-cute-1.6.0",
+      "file": "presets/hita-cute-1.6.0.json"
+    },
+    {
+      "id": "hita-android-3.1.2",
+      "file": "presets/hita-android-3.1.2.json"
+    }
+  ]
+}

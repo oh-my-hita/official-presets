@@ -1,0 +1,31 @@
+{
+  "id": "hita-l-1.5.3",
+  "name": "HITA-L v1.5.3",
+  "version": "1",
+  "source": "HITA-L v1.5.3",
+  "minHostApi": 6,
+  "description": "当前基础预设：课表、教务、课程资源、个人主页与社区。",
+  "plugins": [
+    {
+      "id": "com.stupidtree.hitax.timetable",
+      "kind": "builtin"
+    },
+    {
+      "id": "com.stupidtree.hitax.eas",
+      "kind": "builtin"
+    },
+    {
+      "id": "com.stupidtree.hitax.resource",
+      "kind": "builtin"
+    },
+    {
+      "id": "com.stupidtree.hitax.user",
+      "kind": "builtin"
+    },
+    {
+      "id": "com.stupidtree.hita.theta",
+      "kind": "builtin"
+    }
+  ],
+  "repo": "https://github.com/LiPu-jpg/HITA_L"
+}
